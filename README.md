@@ -16,9 +16,8 @@ Following remarks:
 
 ## Running the code
 See the jupiter notebook: Deadlift.ipynb
-
-I would suggest running the entire code from top to bottom to get an idea of the work-flow.
-NB: Skip step 2 and 3 ("Make detections" and "Record and save video") to use an already captured video (from the data folder).
+- I would suggest running the entire code from top to bottom to get an idea of the work-flow.
+- If you want to run the code on your own video, you need to change the video path.
 
 
 ## TODO:
