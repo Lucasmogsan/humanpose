@@ -1,8 +1,14 @@
 # humanpose
 This repo contains scripts used for testing mediapipe and yolo.
 
-deadlift.ipynb has been extended to use information from mediapipe to train and evaluate a machine learning classification model.
+`deadlift.ipynb` has been extended to use information from mediapipe to train and evaluate a machine learning classification model.
 It should be used for educational / testing purposes.
+
+<p align="center">
+  <img src="assets/HPE_test_curls.png" width="30%" />
+  <img src="assets/HPE_test_dl.png" width="27%" />
+  <img src="assets/HPE_test_golf.png" width="25%" />
+</p>
 
 ## Setup
 The code has been run on:
